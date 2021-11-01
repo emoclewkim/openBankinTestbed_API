@@ -1,5 +1,5 @@
 # openBankinTestbed_API
-오픈 뱅킹 테스트베드를 사용한 금융API 구현
+# 오픈 뱅킹 테스트베드를 사용한 금융API 구현
 
 금융API 기능함수
 
